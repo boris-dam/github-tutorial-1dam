@@ -1,6 +1,4 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- */
+
 
 package es.dam.main;
 
@@ -14,5 +12,7 @@ public class MainClass {
 
     public static void main(String[] args) {
         CollaborationExample.collaboration();
+        JorgeSantos.collaboration();
+                
     }
 }
