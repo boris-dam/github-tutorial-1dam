@@ -12,7 +12,18 @@ import es.dam.collaborations.*;
  */
 public class MainClass {
 
+    
+    
+    
+    
+    
+    
+    
+    
     public static void main(String[] args) {
         CollaborationExample.collaboration();
+        
+        
+        OscarPerez.main(args);
     }
 }
