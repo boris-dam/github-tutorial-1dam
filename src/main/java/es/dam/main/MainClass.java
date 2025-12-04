@@ -12,7 +12,8 @@ import es.dam.collaborations.*;
  */
 public class MainClass {
 
-    public static void main(String[] args) {
+    public static void collaboration (){
         CollaborationExample.collaboration();
+        MiguelSeoane.collaboration();
     }
 }
