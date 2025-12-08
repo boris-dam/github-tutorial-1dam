@@ -15,5 +15,14 @@ public class MainClass {
     public static void main(String[] args) {
         CollaborationExample.collaboration();
         IzanFernandez.collaboration();
+        OscarPerez.main(args);
+        CarlaVinez.main(args);
+        fernandoElcoso.collaboration();
+        JoelEstravizNogueiro.saludoPersonalizado("Boris");
+        AntonioConde.main(args);
+        AntonioGuerraVazquez.main(args);
+        NathyaraCorral.main(args);
+        DanielFernandez.hola();
+        DiegoPardo.diegoPardo();
     }
 }
