@@ -1,7 +1,3 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- */
-
 package es.dam.main;
 
 import es.dam.collaborations.*;
@@ -14,6 +10,7 @@ public class MainClass {
 
     public static void main(String[] args) {
         CollaborationExample.collaboration();
+        JorgeSantos.collaboration();                
         IriaMendezDiaz.collaboration();
         IzanFernandez.collaboration();
         OscarPerez.main(args);
