@@ -1,4 +1,4 @@
-package es.dam.main;
+package es.dam.collaborations;
 
 public class DanielFernandez {
 
