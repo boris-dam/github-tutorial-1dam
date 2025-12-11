@@ -6,11 +6,10 @@ package es.dam.collaborations;
 
 /**
  *
- * @author Boris
+ * @author elcrodfer
  */
-public class CollaborationExample {
-    
+public class fernandoElcoso {
     public static void collaboration() {
-        System.out.println("Hello classroom! This is my code!");
+        System.out.println("Hola, oscar!!!");
     }
 }

@@ -8,9 +8,9 @@ package es.dam.collaborations;
  *
  * @author Boris
  */
-public class CollaborationExample {
+public class IriaMendezDiaz {
     
     public static void collaboration() {
-        System.out.println("Hello classroom! This is my code!");
+        System.out.println("Hola soy Iria Méndez Díaz");
     }
 }
