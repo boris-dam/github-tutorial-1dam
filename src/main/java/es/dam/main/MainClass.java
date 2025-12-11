@@ -9,7 +9,8 @@ import es.dam.collaborations.*;
 public class MainClass {
 
     public static void main(String[] args) {
-        CollaborationExample.collaboration();
+        CollaborationExample.collaboration();        
+        IleniaGonzalez.Ilenia(args);
         JorgeSantos.collaboration();                
         IriaMendezDiaz.collaboration();
         IzanFernandez.collaboration();
